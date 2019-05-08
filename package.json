@@ -1,12 +1,17 @@
 {
-  "name": "allsop-card-scanner",
+  "name": "ngx-card-scanner",
   "version": "1.0.0",
   "description": "A scanner class angular 6",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MattCMcNabb/ngx-card-scanner.git"
+  },
+  "homepage": "https://github.com/MattCMcNabb/ngx-card-scanner#readme",
   "scripts": {
     "build": "tsc index.ts"
   },
-  "author": "",
+  "author": "Matt McNabb",
   "license": "ISC",
   "dependencies": {
     "@angular/core": "^7.2.15",
